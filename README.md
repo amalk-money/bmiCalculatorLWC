@@ -27,7 +27,7 @@ The following BMI classifications are used in this calculator:
 | 25 - 29.9  | Overweight  |
 | 30 and above  | Obese  |
 	
-##Code Structure
+## Code Structure
 The project is organized as follows:
 
 * force-app/main/default/lwc/bmiCalculator/: Contains the BMI Calculator Lightning Web Component.
